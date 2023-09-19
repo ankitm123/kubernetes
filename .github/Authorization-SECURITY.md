@@ -1,6 +1,6 @@
-# Security Policy
+# Security Policy: Authorization SECURITY.md
 
-## Supported Versions
+## Supported Versions: [master]
 
 Information about supported Kubernetes versions can be found on the
 [Kubernetes version and version skew support policy] page on the Kubernetes website.
